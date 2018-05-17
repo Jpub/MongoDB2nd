@@ -2,7 +2,7 @@
 # 몽고디비 인 액션(제2판)
   
 
-![러닝 파이썬 표지](http://image.kyobobook.co.kr/images/book/xlarge/217/x9791188621217.jpg)
+![러닝 파이썬 표지](http://image.yes24.com/momo/TopCate1856/MidCate005/185548940.jpg)
 
 **출판사** 제이펍  
 **원출판사** 매닝(Manning)  
