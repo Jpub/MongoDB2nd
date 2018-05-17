@@ -2,7 +2,7 @@
 # 몽고디비 인 액션(제2판)
   
 
-![몽고디비 인 액션(제2판) 표지](http://image.kyobobook.co.kr/images/book/large/217/l9791188621217.jpg)
+![몽고디비 인 액션(제2판) 표지](http://image.kyobobook.co.kr/images/book/xlarge/217/x9791188621217.jpg)
 
 **출판사** 제이펍  
 **원출판사** 매닝(Manning)  
